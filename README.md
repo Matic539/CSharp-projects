@@ -11,7 +11,7 @@ Para compilar el código, abre la terminal en la raíz del proyecto y utiliza el
 ```bash
 csc nombreProyecto.cs
 ```
-Donde nombreProyecto.cs debe ser reemplazado por el nombre de "tus archivos" C# (por ejemplo, cipherText.cs).
+Donde nombreProyecto.cs debe ser reemplazado por el nombre de "TUS ARCHIVOS" C# (por ejemplo, cipherText.cs).
 
 ### Ejecución
 
